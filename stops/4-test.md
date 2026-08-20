@@ -6,9 +6,9 @@ section_title: Introduction
 title: Welcome to the first stop in the tour
 page_rank: 4
 stop_id: 4-test
-audio_file: NASA_main_APU_Shutdown.mp3
+audio_file: stop 1 final.mp3
 hero_images:
- - path: 01-introduction-01.jpg
+ - path: 01-intro.png
    alt_text: First example photo for stop 1
  - path: 01-introduction-02.jpg
    alt_text: Second example photo for stop 1
