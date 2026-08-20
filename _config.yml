@@ -7,7 +7,7 @@
 
 # Site settings
 title: ACMI Audio Guide
-email: your-email@example.com
+email: museuminfo@gwu.edu
 description: > # this means to ignore newlines until "baseurl:"
   A web-based audio guide theme for Jekyll.
 baseurl: "/test-audio" # the subpath of your site, e.g. /blog
@@ -16,7 +16,7 @@ episode_hero_path: "/assets/img/stops/"
 url: "https://gwmtm.github.io" # the base hostname & protocol for your site
 logo: "/assets/img/logo/audio-guide.png"
 twitter_username: acmilabs
-github_username:  acmilabs
+github_username:  gwmtm
 menu_heading: "Select another stop"
 index_page_text: "Select an audio guide stop to begin."
 headphones_icon_color: "/assets/img/icons/headphones-dark.png"
